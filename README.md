@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTaeKang57&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaeKang57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
